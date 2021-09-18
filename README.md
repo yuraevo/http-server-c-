@@ -5,6 +5,7 @@ A simple web server
 ## Compile
 From terminal:
 
+mkdir build
 cmake ..
 make
 
