@@ -6,7 +6,9 @@ A simple web server
 From terminal:
 
 mkdir build
+
 cmake ..
+
 make
 
 ## Run
